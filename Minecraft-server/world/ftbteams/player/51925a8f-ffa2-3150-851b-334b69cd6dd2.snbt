@@ -1,0 +1,15 @@
+{
+	id: "51925a8f-ffa2-3150-851b-334b69cd6dd2"
+	type: "player"
+	player_name: "santutu"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "santutu"
+		"ftbteams:description": ""
+		"ftbteams:color": "#6E59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

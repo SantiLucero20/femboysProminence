@@ -1,0 +1,17 @@
+{
+	id: "d6f7db6e-3210-3d34-a7ad-7dd470f8bb4c"
+	type: "player"
+	player_name: "LaJejemias"
+	ranks: {
+		d6f7db6e-3210-3d34-a7ad-7dd470f8bb4c: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "LaJejemias"
+		"ftbteams:description": ""
+		"ftbteams:color": "#78FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

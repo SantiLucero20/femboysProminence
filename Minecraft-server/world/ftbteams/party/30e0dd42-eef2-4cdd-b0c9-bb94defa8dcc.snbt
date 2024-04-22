@@ -1,0 +1,17 @@
+{
+	id: "30e0dd42-eef2-4cdd-b0c9-bb94defa8dcc"
+	type: "party"
+	owner: "51925a8f-ffa2-3150-851b-334b69cd6dd2"
+	ranks: {
+		51925a8f-ffa2-3150-851b-334b69cd6dd2: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Santutu team"
+		"ftbteams:description": "Santu"
+		"ftbteams:color": "#6E59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [{ from: "00000000-0000-0000-0000-000000000000", date: 1713759799580L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"santutu\"}]}" }]
+	extra: { }
+}

@@ -1,0 +1,17 @@
+{
+	id: "df06b5a7-8436-35af-8a01-87eee56ea145"
+	type: "player"
+	player_name: "juanii_mz"
+	ranks: {
+		df06b5a7-8436-35af-8a01-87eee56ea145: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "juanii_mz"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF60"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
