@@ -1,0 +1,17 @@
+{
+	id: "b959a2df-5549-3e82-af72-1e52fe295014"
+	type: "player"
+	player_name: "Arrath7"
+	ranks: {
+		b959a2df-5549-3e82-af72-1e52fe295014: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Arrath7"
+		"ftbteams:description": ""
+		"ftbteams:color": "#CEFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

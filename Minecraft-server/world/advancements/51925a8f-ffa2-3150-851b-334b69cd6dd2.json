@@ -3617,6 +3617,7 @@
       "minecraft:river": "2024-04-23 00:51:39 +0000",
       "minecraft:stony_shore": "2024-04-23 01:23:29 +0000",
       "minecraft:dripstone_caves": "2024-04-23 00:57:30 +0000",
+      "minecraft:cold_ocean": "2024-04-23 14:02:35 +0000",
       "minecraft:lush_caves": "2024-04-23 01:26:44 +0000",
       "minecraft:desert": "2024-04-23 00:58:27 +0000"
     },
@@ -6526,15 +6527,15 @@
     },
     "done": true
   },
-  "bewitchment:recipes/decorations/obsidian_witch_altar": {
+  "archon:learn_spell": {
     "criteria": {
-      "has_item": "2024-04-23 02:21:46 +0000"
+      "spell": "2024-04-23 02:21:28 +0000"
     },
     "done": true
   },
-  "mcda:recipes/base_armors/mercenary_armor_chestplate": {
+  "bewitchment:recipes/decorations/obsidian_witch_altar": {
     "criteria": {
-      "has_iron_chestplate": "2024-04-23 02:21:58 +0000"
+      "has_item": "2024-04-23 02:21:46 +0000"
     },
     "done": true
   },
@@ -6550,12 +6551,6 @@
     },
     "done": true
   },
-  "mcda:recipes/base_armors/reinforced_mail_leggings": {
-    "criteria": {
-      "has_iron_leggings": "2024-04-23 02:22:27 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/compressor/obsidian_plate_from_block": {
     "criteria": {
       "has_obsidian": "2024-04-23 02:21:46 +0000"
@@ -6565,12 +6560,6 @@
   "betternether:recipes/building_blocks/obsidian_tile_small_stonecutter": {
     "criteria": {
       "has_block.minecraft.obsidian": "2024-04-23 02:21:46 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/blast_furnace/iron_ingot_from_leggings": {
-    "criteria": {
-      "has_iron_leggings": "2024-04-23 02:22:27 +0000"
     },
     "done": true
   },
@@ -6586,12 +6575,6 @@
     },
     "done": true
   },
-  "archon:learn_spell": {
-    "criteria": {
-      "spell": "2024-04-23 02:21:28 +0000"
-    },
-    "done": true
-  },
   "mcdw:recipes/daggers/dagger_backstabber": {
     "criteria": {
       "has_obsidian": "2024-04-23 02:21:46 +0000"
@@ -6604,21 +6587,9 @@
     },
     "done": true
   },
-  "mcda:recipes/base_armors/snow_armor_chestplate": {
-    "criteria": {
-      "has_iron_chestplate": "2024-04-23 02:21:58 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/building_blocks/obsidian_tile_stairs_stonecutter": {
     "criteria": {
       "has_block.minecraft.obsidian": "2024-04-23 02:21:46 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/reinforced_mail_chestplate": {
-    "criteria": {
-      "has_iron_chestplate": "2024-04-23 02:21:58 +0000"
     },
     "done": true
   },
@@ -6640,12 +6611,6 @@
     },
     "done": true
   },
-  "techreborn:recipes/blast_furnace/iron_ingot_from_chestplate": {
-    "criteria": {
-      "has_iron_chestplate": "2024-04-23 02:21:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2024-04-23 02:21:46 +0000"
@@ -6655,12 +6620,6 @@
   "betternether:recipes/building_blocks/obsidian_tile_stonecutter": {
     "criteria": {
       "has_block.minecraft.obsidian": "2024-04-23 02:21:46 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/mercenary_armor_leggings": {
-    "criteria": {
-      "has_iron_leggings": "2024-04-23 02:22:27 +0000"
     },
     "done": true
   },
@@ -6688,11 +6647,161 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/mercenary_armor_chestplate": {
+    "criteria": {
+      "has_iron_chestplate": "2024-04-23 02:21:58 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/snow_armor_chestplate": {
+    "criteria": {
+      "has_iron_chestplate": "2024-04-23 02:21:58 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/reinforced_mail_chestplate": {
+    "criteria": {
+      "has_iron_chestplate": "2024-04-23 02:21:58 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_chestplate": {
+    "criteria": {
+      "has_iron_chestplate": "2024-04-23 02:21:58 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/reinforced_mail_leggings": {
+    "criteria": {
+      "has_iron_leggings": "2024-04-23 02:22:27 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_leggings": {
+    "criteria": {
+      "has_iron_leggings": "2024-04-23 02:22:27 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/mercenary_armor_leggings": {
+    "criteria": {
+      "has_iron_leggings": "2024-04-23 02:22:27 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/snow_armor_leggings": {
     "criteria": {
       "has_iron_leggings": "2024-04-23 02:22:27 +0000"
     },
     "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/ruby_leggings": {
+    "criteria": {
+      "has_ruby_gem": "2024-04-23 14:01:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/ruby_storage_block": {
+    "criteria": {
+      "has_ruby_gem": "2024-04-23 14:01:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/ruby_chestplate": {
+    "criteria": {
+      "has_ruby_gem": "2024-04-23 14:01:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/ruby_sword": {
+    "criteria": {
+      "has_ruby_gem": "2024-04-23 14:01:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/ruby_helmet": {
+    "criteria": {
+      "has_ruby_gem": "2024-04-23 14:01:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-04-23 14:02:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/ruby_spade": {
+    "criteria": {
+      "has_ruby_gem": "2024-04-23 14:01:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/ruby_axe": {
+    "criteria": {
+      "has_ruby_gem": "2024-04-23 14:01:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/kelp": {
+    "criteria": {
+      "has_kelp": "2024-04-23 14:02:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/ruby_dust": {
+    "criteria": {
+      "has_tag_c_rubies": "2024-04-23 14:01:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-04-23 14:02:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-04-23 14:02:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/ruby_hoe": {
+    "criteria": {
+      "has_ruby_gem": "2024-04-23 14:01:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/ruby_boots": {
+    "criteria": {
+      "has_ruby_gem": "2024-04-23 14:01:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/ruby_pickaxe": {
+    "criteria": {
+      "has_ruby_gem": "2024-04-23 14:01:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/plantball_from_kelp": {
+    "criteria": {
+      "has_kelp": "2024-04-23 14:02:50 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2024-04-23 13:59:11 +0000"
+    },
+    "done": true
+  },
+  "techreborn:root": {
+    "criteria": {
+      "crit_2": "2024-04-23 14:01:08 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
