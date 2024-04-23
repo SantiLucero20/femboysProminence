@@ -2,9 +2,7 @@
 	id: "193b8c12-04df-3a1e-9676-bae1b01aaad9"
 	type: "player"
 	player_name: "Alfajorcita"
-	ranks: {
-		193b8c12-04df-3a1e-9676-bae1b01aaad9: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Alfajorcita"
 		"ftbteams:description": ""

@@ -1,0 +1,17 @@
+{
+	id: "d18ad21e-6014-31c4-8705-2094542c1874"
+	type: "player"
+	player_name: "Juanchisito"
+	ranks: {
+		d18ad21e-6014-31c4-8705-2094542c1874: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Juanchisito"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59F4"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

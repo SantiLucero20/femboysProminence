@@ -1,0 +1,17 @@
+{
+	id: "7dede91a-8d69-4af3-a83e-90b36c7aa7a8"
+	type: "party"
+	owner: "193b8c12-04df-3a1e-9676-bae1b01aaad9"
+	ranks: {
+		193b8c12-04df-3a1e-9676-bae1b01aaad9: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Twopeteras"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59B9"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [{ from: "00000000-0000-0000-0000-000000000000", date: 1713833403545L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Alfajorcita\"}]}" }]
+	extra: { }
+}

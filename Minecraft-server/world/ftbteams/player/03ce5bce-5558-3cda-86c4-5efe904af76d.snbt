@@ -1,0 +1,17 @@
+{
+	id: "03ce5bce-5558-3cda-86c4-5efe904af76d"
+	type: "player"
+	player_name: "matiassoz"
+	ranks: {
+		03ce5bce-5558-3cda-86c4-5efe904af76d: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "matiassoz"
+		"ftbteams:description": ""
+		"ftbteams:color": "#E259FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

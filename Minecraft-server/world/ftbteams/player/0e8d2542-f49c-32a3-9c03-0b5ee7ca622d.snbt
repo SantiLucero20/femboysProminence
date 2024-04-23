@@ -1,0 +1,17 @@
+{
+	id: "0e8d2542-f49c-32a3-9c03-0b5ee7ca622d"
+	type: "player"
+	player_name: "salfier"
+	ranks: {
+		0e8d2542-f49c-32a3-9c03-0b5ee7ca622d: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "salfier"
+		"ftbteams:description": ""
+		"ftbteams:color": "#F859FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

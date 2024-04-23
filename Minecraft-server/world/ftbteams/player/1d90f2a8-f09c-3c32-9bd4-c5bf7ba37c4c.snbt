@@ -1,0 +1,17 @@
+{
+	id: "1d90f2a8-f09c-3c32-9bd4-c5bf7ba37c4c"
+	type: "player"
+	player_name: "TravaPeronista"
+	ranks: {
+		1d90f2a8-f09c-3c32-9bd4-c5bf7ba37c4c: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "TravaPeronista"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59BFFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
